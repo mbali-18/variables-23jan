@@ -9,6 +9,7 @@ let numberOfSiblings = 3;
 let based = " Cape Town";
 let favoriteFood = "Pizza";
 let loveofmylife = "Mbuso";
+let lovesCoding = true;
 
 console.log("Hi, my name is " + myName);
 console.log("I am " + age + " years old");
@@ -18,3 +19,4 @@ console.log("I have " + numberOfSiblings + " siblings");
 console.log("I live in" + based);
 console.log("My favorite food is " + favoriteFood);
 console.log("Love of my life Mbuso")
+console.log("Do I love coding? " + lovesCoding);
